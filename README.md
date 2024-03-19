@@ -1,4 +1,4 @@
 # python-tools
-How tools for python tools/structure/enviornments.
+How to use Python tools/structure/enviornments.
 
 Updates incoming...
